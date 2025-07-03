@@ -10,3 +10,4 @@ try:
     print("✅ Download concluído com sucesso!")
 except Exception as e:
     print(f"❌ Erro ao baixar: {e}")
+    
